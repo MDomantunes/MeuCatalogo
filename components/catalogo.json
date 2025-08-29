@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "titulo": "Orgulho e Preconceito",
+    "subtitulo": "Jane Austen",
+    "ano": 2005
+  },
+  {
+    "id": 2,
+    "titulo": "Como Eu Era Antes de Você",
+    "subtitulo": "Jojo Moyes",
+    "ano": 2016
+  },
+  {
+    "id": 3,
+    "titulo": "Simplesmente Acontece",
+    "subtitulo": "Cecelia Ahern",
+    "ano": 2014
+  },
+  {
+    "id": 4,
+    "titulo": "Diário de uma Paixão",
+    "subtitulo": "Nicholas Sparks",
+    "ano": 2004
+  },
+  {
+    "id": 5,
+    "titulo": "Encontro Marcado",
+    "subtitulo": "Alberto Casella",
+    "ano": 1998
+  },
+  {
+    "id": 5,
+    "titulo": "A Saga Crepúsculo",
+    "subtitulo": "Stephenie Meyer",
+    "ano": 2008
+  }
+]
